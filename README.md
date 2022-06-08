@@ -12,6 +12,7 @@
 - C++
 - JavaScipt
 - TypeScript
+- Python
 - Nodejs
 - GraphQL
 - React-Native
@@ -32,4 +33,4 @@
 
 - Contact me: trungnam23799@gmail.com
 
-Last Edited on: 15/04/2022
+Last Edited on: 06/08/2022
