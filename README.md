@@ -13,6 +13,7 @@
 - JavaScipt
 - TypeScript
 - Python
+- Golang
 - Nodejs
 - GraphQL
 - React-Native
@@ -33,4 +34,4 @@
 
 - Contact me: trungnam23799@gmail.com
 
-Last Edited on: 06/08/2022
+Last Edited on: 03/07/2022
