@@ -9,10 +9,8 @@
 
 <h3 align="center"> Language & Skills </h3>
 
-- C++
 - JavaScipt
 - TypeScript
-- Python
 - Golang
 - Nodejs
 - GraphQL
@@ -20,6 +18,10 @@
 - Web Development
 - MongoDB
 - MySQL
+- Docker
+- CircleCI
+- BitBucket/Github
+- Git flow
 
 <h4 align="center">Always learning</h4>
 
@@ -34,4 +36,4 @@
 
 - Contact me: trungnam23799@gmail.com
 
-Last Edited on: 03/07/2022
+Last Edited on: 12/12/2022
