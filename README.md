@@ -15,6 +15,8 @@
 - Nodejs
 - GraphQL
 - React-Native
+- ReactJS/ NextJS
+- TailwindCSS
 - Web Development
 - MongoDB
 - MySQL
@@ -36,4 +38,4 @@
 
 - Contact me: trungnam23799@gmail.com
 
-Last Edited on: 12/12/2022
+Last Edited on: 28/02/2023
