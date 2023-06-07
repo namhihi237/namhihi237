@@ -36,6 +36,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=namhihi237&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-- Contact me: trungnam23799@gmail.com
-
 Last Edited on: 28/02/2023
