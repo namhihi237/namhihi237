@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋, I'm poppy</h1>
-<h2 align="center"> I am DucPhan.</h2>
+<h2 align="center"> I am Nam.</h2>
 <br>
 <p align="center">
     <code>Visitor count</code>
