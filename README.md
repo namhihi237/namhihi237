@@ -25,10 +25,6 @@
 - BitBucket/Github
 - Git flow
 
-<h4 align="center">Always learning</h4>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=namhihi237&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
-
 **Languages and Tools:**
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namhihi237&count_private=true&theme=radical" alt="namhihi237" />
