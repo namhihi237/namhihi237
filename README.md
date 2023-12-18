@@ -18,6 +18,8 @@
 - React-Native
 - ReactJS/ NextJS
 - TailwindCSS
+- Express
+- NestJS
 - Web Development
 
 **Database:**
