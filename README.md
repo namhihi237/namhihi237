@@ -1,13 +1,25 @@
-<h1 align="center"> Hi there 👋, I'm Nam (poppy)</h1>
-
-<br>
+<h1 align="center">
+Hi, I'm Nam Le!
+	<a href="https://github.com/namhihi237" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
 <p align="center">
-    <code>Visitor count</code>
-    <img src="https://profile-counter.glitch.me/namhihi237/count.svg" />
-    <br>
+	<a href="https://github.com/namhihi237">
+		<img src="https://komarev.com/ghpvc/?username=namhihi237&label=Profile%20views&color=0e75b6&style=flat" alt="namhihi237" />
+	</a>
+	<a href="https://github.com/namhihi237">
+		<img src="https://img.shields.io/github/followers/namhihi237?label=Followers" alt="namhihi237" />
+	</a>
+</p>
+<br/>
+<p align="center">
+	<a href="https://github.com/namhihi237">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science;Full+Stack+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+	</a>
 </p>
 
-<h3 align="center"> Language & Skills </h3>
+<hr>
 
 **Languages and framework:**
 - JavaScipt
