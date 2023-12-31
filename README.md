@@ -32,7 +32,6 @@ Hi, I'm Nam Le!
 - TailwindCSS
 - Express
 - NestJS
-- Web Development
 
 **Database:**
 - MongoDB
@@ -51,4 +50,4 @@ Hi, I'm Nam Le!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=namhihi237&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-Last Edited on: 23/12/2023
+Last Edited on: 31/12/2023
