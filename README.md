@@ -39,7 +39,7 @@ Hi, I'm Nam Le!
 - Postgres
 
 **Tool:**
-- BitBucket/Github
+- BitBucket/Github/Gitlab
 - Visual studio code
 - Docker
 - CircleCI
