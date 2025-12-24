@@ -33,7 +33,7 @@ Hi, I'm Nam Le!
 - Express
 - NestJS
 
-** AI**
+**AI**
 - Langchain
 - OpenAI API
 
@@ -49,7 +49,7 @@ Hi, I'm Nam Le!
 - CircleCI
 - Nginx
 
-** AI Tool**
+**AI Tool**
 - Cursor
 - Claude Code
 
