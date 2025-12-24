@@ -53,7 +53,4 @@ Hi, I'm Nam Le!
 - Cursor
 - Claude Code
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namhihi237&count_private=true&theme=radical" alt="namhihi237" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=namhihi237&count_private=true&theme=radical" alt="namhihi237" />
-
-Last Edited on: 31/12/2023
+Last Edited on: 24/12/2025
