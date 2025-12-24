@@ -33,6 +33,10 @@ Hi, I'm Nam Le!
 - Express
 - NestJS
 
+** AI**
+- Langchain
+- OpenAI API
+
 **Database:**
 - MongoDB
 - MySQL
@@ -40,14 +44,16 @@ Hi, I'm Nam Le!
 
 **Tool:**
 - BitBucket/Github/Gitlab
-- Visual studio code
+- Visual Studio Code
 - Docker
 - CircleCI
 - Nginx
 
+** AI Tool**
+- Cursor
+- Claude Code
+
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namhihi237&count_private=true&theme=radical" alt="namhihi237" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=namhihi237&count_private=true&theme=radical" alt="namhihi237" />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=namhihi237&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 Last Edited on: 31/12/2023
